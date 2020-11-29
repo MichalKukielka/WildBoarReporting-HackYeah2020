@@ -8,13 +8,13 @@ This repository contains prototype of the project developed for HackYeah 2020 **
 
 Application includes user-friendly onboarding and info about ASF and safety procedures for wild boar encounters.
 
-![mobile_app1.png](images/mobile_app1.png "Mobile app onboarding")
+![mobile_app1.png](images/mobile_app1.PNG "Mobile app onboarding")
 
 User can report wild boar sighting which is send with his location, additional info about encounter and optional photo.
 
 The report is then verified by AI module, email notification is send to PLW and record is included in the database.
 
-![mobile_app2.png](images/mobile_app2.png "Mobile app reporting")
+![mobile_app2.png](images/mobile_app2.PNG "Mobile app reporting")
 
 
 ## Admin panel
